@@ -1,0 +1,24 @@
+.primary {
+    background-color: blue;
+}
+
+.secondary {
+    background-color: rgba(113, 146, 206, 0.568);
+
+}
+.succes {
+    background-color: rgb(20, 128, 179);
+}
+.danger {
+    background-color: red;
+
+}
+.warning {
+    background-color: rgb(216, 240, 8);
+}
+.structure {
+    color:white;
+    text-decoration: none;
+    font-weight: bold;
+
+}
